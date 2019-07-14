@@ -8,4 +8,5 @@ Dataset generation for Urdu OCR.
 ## How to Use:
 <ul>
   <li> Download Repository </li>
-  
+  <li> Go into the folder named 'bbcurdu' </li>
+  <li> open command prompt and enter command `scrapy crawl bbc -o filename.csv`
