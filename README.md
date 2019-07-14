@@ -4,3 +4,4 @@ Dataset generation for Urdu OCR.
 1) Jupyter Notebook
 2) Scrapy
 3) Pandas
+4) Sellenium
